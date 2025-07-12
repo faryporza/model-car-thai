@@ -50,3 +50,4 @@ MDAll/
 - โมเดลที่เทรนแล้วจะถูกบันทึกไว้ที่ `runs/detect/train/weights/best.pt`
 - ใช้ GPU ถ้ามี (CUDA) สำหรับเทรนเร็วขึ้น
 - สามารถปรับ epochs, imgsz, และ model size ใน `train.py` ได้
+- นะจ๊ะ
